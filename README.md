@@ -1,9 +1,9 @@
-#local community event board
+# local community event board
 
-##problem
-small clibs and neighborhoods lack a simple central place foe meetups.
+## problem
+small clibs and neighborhoods lack a simple central place for meetups.
 
-##features planned
+## features planned
 * post events
 * filter by category
 * RSVP
